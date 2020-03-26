@@ -22,7 +22,7 @@ a {
 .container {
     max-width: 90%;
     margin: auto;  
-    overflow: hidden;
+  
 }
 
 .section-header {
@@ -91,7 +91,7 @@ align-items: center;
 .dropdown2-menu {
     position: absolute;
     padding: 1.5rem;
-    background-color: #fff;
+    background-color: #f7f3ef;
     margin-top: 1.75rem;
     transform: scale(0);
     visibility: hidden; 
@@ -120,7 +120,7 @@ align-items: center;
 .dropdown-menu ul li:hover {
     opacity: 0.7;
 }
-#navbar ul li a:hover {
+nav ul li a:hover {
     color: var(--primary-color);
 }
 /* dropdown2 */
